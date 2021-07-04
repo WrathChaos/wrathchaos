@@ -43,6 +43,14 @@ I am a mobile software engineer and team leader
 <br>
 <br>
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
+
+
+
+
 ## Other Stuff
 
 [![FreakyCoder Github Visitors](https://badges.pufler.dev/visits/wrathchaos/wrathchaos?style=for-the-badge&color=eb1b0c)](https://freakycoder.com)
