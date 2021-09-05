@@ -45,11 +45,11 @@ I am a mobile software engineer and team leader
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React Native Notes 26: Linking in object file built for iOS for architecture arm64 Error](https://freakycoder.com/react-native-notes-26-linking-in-object-file-built-for-ios-for-architecture-arm64-error-2fbc859f11be?source=rss----decee8936214---4)
 - [React Native Notes 25: How to build a native Splash Screen on React Native App?](https://freakycoder.com/react-native-25-how-to-build-a-native-splash-screen-on-react-native-app-27bcb9015a6e?source=rss----decee8936214---4)
 - [React Native 24: How to portrait mode only on iOS and Android?](https://freakycoder.com/react-native-24-how-to-portrait-mode-only-on-ios-and-android-aa8942f92cde?source=rss----decee8936214---4)
 - [iOS Notes 51: How to set a time-based dynamic greeting message? [Swift 5]](https://freakycoder.com/ios-notes-51-how-to-set-a-time-based-dynamic-greeting-message-swift-5-6c629632ceb5?source=rss----decee8936214---4)
 - [Kotlin Notes 12: How to convert Bitmap to File?](https://freakycoder.com/kotlin-notes-12-how-to-convert-bitmap-to-file-510540c2d415?source=rss----decee8936214---4)
-- [Git Cheat-sheet for Daily Usage](https://freakycoder.com/git-cheat-sheet-for-daily-usage-3e479d8f6507?source=rss----decee8936214---4)
 <!-- BLOG-POST-LIST:END -->
 
 
