@@ -59,7 +59,4 @@ I am a mobile software engineer and team leader
 
 [![FreakyCoder Github Visitors](https://badges.pufler.dev/visits/wrathchaos/wrathchaos?style=for-the-badge&color=eb1b0c)](https://freakycoder.com)
 
-[<img src="https://readme-spotify-status.wrathchaos.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" />](https://freakycoder.com)
-
-
 
