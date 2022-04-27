@@ -45,11 +45,11 @@ I am a mobile software engineer and team leader
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Notes 2: How to handle multiple async tasks correctly?](https://freakycoder.com/javascript-notes-2-how-to-handle-multiple-async-tasks-correctly-f8407eaf3227?source=rss----decee8936214---4)
+- [React Native Notes 30: How to iOS Modal Presentation like Navigation on Android?](https://freakycoder.com/react-native-notes-30-how-to-ios-modal-presentation-like-navigation-on-android-de03e2c6597e?source=rss----decee8936214---4)
+- [React Native Notes 29: Firebase Google Sign-in Problem on Android APK](https://freakycoder.com/react-native-notes-29-firebase-google-sign-in-problem-on-android-apk-4597e7e60973?source=rss----decee8936214---4)
 - [React Native Notes 28: How to prevent go back with React Navigation v6?](https://freakycoder.com/react-native-notes-28-how-to-prevent-go-back-with-react-navigation-v6-f214c45f6315?source=rss----decee8936214---4)
 - [React Native Notes 27: Automatically adding `value` bug fix on VSCode](https://freakycoder.com/react-native-notes-27-automatically-adding-value-bug-fix-on-vscode-31a2aed5535?source=rss----decee8936214---4)
-- [React Native Notes 26: Linking in object file built for iOS for architecture arm64 Error](https://freakycoder.com/react-native-notes-26-linking-in-object-file-built-for-ios-for-architecture-arm64-error-2fbc859f11be?source=rss----decee8936214---4)
-- [React Native Notes 25: How to build a native Splash Screen on React Native App?](https://freakycoder.com/react-native-25-how-to-build-a-native-splash-screen-on-react-native-app-27bcb9015a6e?source=rss----decee8936214---4)
-- [React Native 24: How to portrait mode only on iOS and Android?](https://freakycoder.com/react-native-24-how-to-portrait-mode-only-on-ios-and-android-aa8942f92cde?source=rss----decee8936214---4)
 <!-- BLOG-POST-LIST:END -->
 
 
