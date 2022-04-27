@@ -3,7 +3,7 @@
 I am a mobile software engineer and team leader
 
 - 🥰 Very active on mobile open source community especially on React Native
-- 🥳 Enthusiast on game development with Unreal Engine and Unity
+- 🥳 Enthusiast on game development with Unreal Engine 5 and Unity
 
   
 [![FreakyCoder Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=wrathchaos&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c)](https://freakycoder.com)
