@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am a mobile software engineer and team leader
+I am a software engineer and team leader
 
 - 🥰 Very active on mobile open source community especially on **React Native**
 - 🥳 Enthusiast on game development with **Unreal Engine 5** and Unity
