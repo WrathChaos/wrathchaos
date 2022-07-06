@@ -57,6 +57,5 @@ I am a software engineer and team leader
 
 ## Other Stuff
 
-[![FreakyCoder Github Visitors](https://badges.pufler.dev/visits/wrathchaos/wrathchaos?style=for-the-badge&color=eb1b0c)](https://freakycoder.com)
-
+[![Visits Badge](https://badges.strrl.dev/visits/wrathchaos/wrathchaos?style=for-the-badge&color=eb1b0c)](https://badges.strrl.dev)
 
