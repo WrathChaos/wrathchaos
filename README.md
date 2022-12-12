@@ -10,6 +10,8 @@ I am a software engineer and team leader
 
   
 [![FreakyCoder Github Stats](https://github-readme-stats.vercel.app/api?username=wrathchaos&show_icons=true&count_private=true&include_all_commits=true&title_color=eb1b0c&icon_color=eb1b0c)](https://freakycoder.com)
+
+![wrathchaos GitHub Stats](https://server.dooboo.io/github-stats/wrathchaos)
   
 
 ## Connect with me
