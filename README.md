@@ -9,7 +9,7 @@ I am a software engineer and team leader
 [![FreakyCoder Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=wrathchaos&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c)](https://freakycoder.com)
 
   
-[![FreakyCoder Github Stats](https://github-readme-stats.vercel.app/api?username=wrathchaos&show_icons=true&count_private=true&include_all_commits=true&title_color=eb1b0c&icon_color=eb1b0c&random=&randomss524272)](https://freakycoder.com)
+[![FreakyCoder Github Stats](https://github-readme-stats-six-azure-55.vercel.app/api?username=wrathchaos&show_icons=true&count_private=true&include_all_commits=true&title_color=eb1b0c&icon_color=eb1b0c&random=&randomss524272)](https://freakycoder.com)
 
 ![wrathchaos GitHub Stats](https://server.dooboo.io/github-stats/wrathchaos)
   
