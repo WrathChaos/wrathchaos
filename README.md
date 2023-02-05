@@ -26,11 +26,11 @@ I am a software engineer and team leader
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [React Native Notes 32: XCode 14 Signing Issue](https://freakycoder.com/react-native-notes-32-xcode-14-signing-issue-b3d2f3616aa4?source=rss----decee8936214---4)
 - [React Native Notes 31: Android 13 - Installed Build Tools revision 33.0.0](https://freakycoder.com/react-native-notes-31-android-13-installed-build-tools-revision-33-0-0-2a87a83284e6?source=rss----decee8936214---4)
 - [Javascript Notes 2: How to handle multiple async tasks correctly?](https://freakycoder.com/javascript-notes-2-how-to-handle-multiple-async-tasks-correctly-f8407eaf3227?source=rss----decee8936214---4)
 - [React Native Notes 30: How to iOS Modal Presentation like Navigation on Android?](https://freakycoder.com/react-native-notes-30-how-to-ios-modal-presentation-like-navigation-on-android-de03e2c6597e?source=rss----decee8936214---4)
 - [React Native Notes 29: Firebase Google Sign-in Problem on Android APK](https://freakycoder.com/react-native-notes-29-firebase-google-sign-in-problem-on-android-apk-4597e7e60973?source=rss----decee8936214---4)
-- [React Native Notes 28: How to prevent go back with React Navigation v6?](https://freakycoder.com/react-native-notes-28-how-to-prevent-go-back-with-react-navigation-v6-f214c45f6315?source=rss----decee8936214---4)
 <!-- BLOG-POST-LIST:END -->
 
 
