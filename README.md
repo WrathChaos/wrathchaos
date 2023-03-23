@@ -11,7 +11,7 @@ I am a software engineer and team leader
   
 [![FreakyCoder Github Stats](https://github-readme-stats-six-azure-55.vercel.app/api?username=wrathchaos&show_icons=true&count_private=true&include_all_commits=true&title_color=eb1b0c&icon_color=eb1b0c&random=&randomss524272)](https://freakycoder.com)
 
-![wrathchaos GitHub Stats](https://server.dooboo.io/github-stats/wrathchaos)
+![wrathchaos GitHub Stats](https://stats.hyochan.dev/api/github-stats-advanced?login=wrathchaos)
   
 
 ## Connect with me
