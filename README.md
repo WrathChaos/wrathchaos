@@ -6,7 +6,7 @@ I am a software engineer and team leader
 - 🥳 Enthusiast on game development with **Unreal Engine 5** and **Unity**
 
   
-[![FreakyCoder Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=wrathchaos&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c)](https://freakycoder.com)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wrathchaos&theme=blood-dark&hide_border=true&card_width=500&fire=EB5454&dates=EBC4C4)](https://git.io/streak-stats)
 
   
 [![FreakyCoder Github Stats](https://github-readme-stats-six-azure-55.vercel.app/api?username=wrathchaos&show_icons=true&count_private=true&include_all_commits=true&title_color=eb1b0c&icon_color=eb1b0c&random=&randomss524272)](https://freakycoder.com)
