@@ -5,15 +5,6 @@ I am a software engineer and team leader
 - 🥰 Very active on mobile open source community especially on **React Native**
 - 🥳 Enthusiast on game development with **Unreal Engine 5** and **Unity**
 
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=wrathchaos&theme=blood-dark&hide_border=true&card_width=500&fire=EB5454&dates=EBC4C4)](https://git.io/streak-stats)
-
-  
-[![FreakyCoder Github Stats](https://github-readme-stats-six-azure-55.vercel.app/api?username=wrathchaos&show_icons=true&count_private=true&include_all_commits=true&title_color=eb1b0c&icon_color=eb1b0c&random=&randomss524272)](https://freakycoder.com)
-<!--
-![wrathchaos GitHub Stats](https://stats.hyochan.dev/api/github-stats-advanced?login=wrathchaos)
--->
-
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kuray-ogun/)
